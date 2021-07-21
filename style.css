@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Festive&family=Yomogi&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+.logofont {
+  font-family: "Yomogi", cursive;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.font {
+  font-size: 3rem;
+  font-family: "Bebas Neue", cursive;
+}
